@@ -10,3 +10,11 @@ Includes help texts for all controls. I needed to move the info for LFO Mode fro
 No patch storage, not (yet) pretty ;-)
 
 Logo only used, so that you can identify the device
+
+
+
+If you like the device, you can support me by listening to my music at
+
+https://distrokid.com/hyperfollow/markusschloesser/personality-development
+
+https://distrokid.com/hyperfollow/markusschloesser/tag-und-nacht
